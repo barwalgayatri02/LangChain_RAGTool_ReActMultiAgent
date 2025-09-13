@@ -16,11 +16,11 @@ The agent uses a combination of reasoning steps to guide actions in real-time, u
 
 How it works:
 
-Step 1: The agent receives a question or task.
-Step 2: It reasons aloud (in natural language) about how to solve it.
-Step 3: Based on its reasoning, it takes actions (e.g., searching a database, calculating something).
-Step 4: The results of these actions are integrated into its reasoning and may trigger further actions.
-Step 5: It repeats the process until it arrives at a solution.
+- Step 1: The agent receives a question or task.
+- Step 2: It reasons aloud (in natural language) about how to solve it.
+- Step 3: Based on its reasoning, it takes actions (e.g., searching a database, calculating something).
+- Step 4: The results of these actions are integrated into its reasoning and may trigger further actions.
+- Step 5: It repeats the process until it arrives at a solution.
 Key points:
 
 Combines thinking and doing (reasoning and actions).
